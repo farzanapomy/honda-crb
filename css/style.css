@@ -16,9 +16,6 @@ header{
 .image-grayscale{
     filter: grayscale(100%);
 }
-h1{
-    font-weight: 700;
-}
 
 /* features section  */
 .orange-color{
