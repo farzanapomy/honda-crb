@@ -1,5 +1,7 @@
+
 /* font style  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 /* global */
 body{
@@ -11,7 +13,6 @@ header{
 .purchase-button{
     background-color: #E76F51;
     padding: 7px 40px ;
-
 }
 .image-grayscale{
     filter: grayscale(100%);
